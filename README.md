@@ -17,7 +17,7 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 	
 	    Uriel Cohen Priva and Emily Strand. In prep. Schwa has an articulatory target in American English.
 
-* **aligned-buckeye-counts.python.txt.bz2**
+* [**aligned-buckeye-counts.python.txt.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/aligned-buckeye-counts.python.txt.bz2)
 
 	This file is a python dictionary which represents the final alignment counts between CMU underlying representations and Buckeye annotations. These can serve as weights for future alignments. The process is described in:
 	
