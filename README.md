@@ -13,7 +13,7 @@ Currently, you can find the following metadata collections under the `metadata` 
 	    Uriel Cohen Priva and Emily Gleason. Accepted with minor revisions. [The causal structure of lenition: A case for the causal precedence of durational
 shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Submitted.pdf). *Language*.
 
-	- The formant and pitch calculations were discussed in 
+	- The formant and pitch calculations were discussed in. Chelsea Sanker contributed to the creation of this resource. 
 	
 	    Uriel Cohen Priva and Emily Strand. In prep. Schwa has an articulatory target in American English.
 
@@ -21,7 +21,12 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 
 	This file is a python dictionary which represents the final alignment counts between CMU underlying representations and Buckeye annotations. These can serve as weights for future alignments. The process is described in:
 	
-    Uriel Cohen Priva and Emily Gleason. Accepted with minor revisions. [The causal structure of lenition: A case for the causal precedence of durational
+    Uriel Cohen Priva and Emily Gleason. In press. [The causal structure of lenition: A case for the causal precedence of durational
 shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Submitted.pdf). *Language*.
 
 	
+* [**swbd.obstr.monov.obstr.props.csv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/swbd.obstr.monov.obstr.props.csv.bz2)
+
+    Word formant and pitch modes for Switchboard words that have only one monophthong and no other sonorants. The data is meant to be aligned with the MS State annotations. Chelsea Sanker contributed to the creation of this resource. The method is described in:
+	
+	Uriel Cohen Priva and Emily Strand. In prep. Schwa has an articulatory target in American English.
