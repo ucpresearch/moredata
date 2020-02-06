@@ -29,4 +29,4 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 
     Word formant and pitch modes for Switchboard words that have only one monophthong and no other sonorants. The data is meant to be aligned with the MS State annotations. Chelsea Sanker contributed to the creation of this resource. The method is described in:
 	
-	Uriel Cohen Priva and Emily Strand. In prep. Schwa has an articulatory target in American English.
+	Cohen Priva, Uriel, and Emily Strand. Under review. "Schwa Does Have a Perceptual Target in American English." Preprint available at [psyarxiv.com/gwkvh/](https://psyarxiv.com/gwkvh/)
