@@ -29,10 +29,10 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 
     Word formant and pitch modes for Switchboard words that have only one monophthong and no other sonorants. The data is meant to be aligned with the MS State annotations. Chelsea Sanker contributed to the creation of this resource. The method is described in:
 	
-	Cohen Priva, Uriel, and Emily Strand. Under review. "Schwa Does Have a Perceptual Target in American English." Preprint available at [psyarxiv.com/gwkvh/](https://psyarxiv.com/gwkvh/)
+	Cohen Priva, Uriel and Emily Strand. Under review. "Schwa Does Have a Perceptual Target in American English." Preprint available at [psyarxiv.com/gwkvh/](https://psyarxiv.com/gwkvh/)
 
 * [**swbd-convergence-alldf.tsv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/swbd-convergence-alldf.tsv.bz2)
 
     Summary data per conversation side for multipls characteristics in Switchboard. The data is described in:
 	
-	Cohen Priva, Uriel, and Chelsea Sanker, Under review. "Natural Leaders: Some interlocutors elicit greater convergence across conversations and across characteristics"
+	Cohen Priva, Uriel and Chelsea Sanker, Under review. "Natural Leaders: Some interlocutors elicit greater convergence across conversations and across characteristics"
