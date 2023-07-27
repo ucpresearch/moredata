@@ -18,11 +18,10 @@ Currently, you can find the following metadata collections under the `metadata` 
 	
 	- The alignment between CMU underlying representations and the intensity measures were presented in:
 	
-	    Uriel Cohen Priva and Emily Gleason. Accepted with minor revisions. [The causal structure of lenition: A case for the causal precedence of durational
-shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Submitted.pdf). *Language*.
+	    Uriel Cohen Priva and Emily Gleason. [The causal structure of lenition: A case for the causal precedence of durational shortening](http://dx.doi.org/10.1353/lan.2020.0025). *Language*, 96 (2): 413--448. ([open access](https://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-2020-Language.html))
 
 	- The formant and pitch calculations were discussed in. Uriel Cohen Priva and Emily Strand. Under Review. "Schwa's duration and acoustic position in American English."  
-	  Chelsea Sanker contributed to the creation of this resource.
+	  Chelsea Sanker contributed to the creation of this resource. **Notice: this file is not the dataset used for the final publication in Journal of Phonetics, following reviewers' requests**
 
 * [**buckeye-fave-stressed-vowels.tsv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/buckeye-fave-stressed-vowels.tsv.bz2)
 
@@ -36,8 +35,7 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 
 	This file is a python dictionary which represents the final alignment counts between CMU underlying representations and Buckeye annotations. These can serve as weights for future alignments. The process is described in:
 	
-    Uriel Cohen Priva and Emily Gleason. 2020. [The causal structure of lenition: A case for the causal precedence of durational
-shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Submitted.pdf). *Language*.
+    Uriel Cohen Priva and Emily Gleason. [The causal structure of lenition: A case for the causal precedence of durational shortening](http://dx.doi.org/10.1353/lan.2020.0025). *Language*, 96 (2): 413--448. ([open access](https://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-2020-Language.html))
 
 	
 * [**swbd.obstr.monov.obstr.props.csv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/swbd.obstr.monov.obstr.props.csv.bz2)
@@ -50,5 +48,5 @@ shortening](http://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-Lenition-Sub
 
     Summary data per conversation side for multipls characteristics in Switchboard. The data is described in:
 	
-	Cohen Priva, Uriel and Chelsea Sanker, Under review. "Natural Leaders: Some interlocutors elicit greater convergence across conversations and across characteristics"
+	Uriel Cohen Priva and Chelsea Sanker. [Natural leaders: Some interlocutors elicit greater convergence across conversations and across characteristics](http://dx.doi.org/10.1111/cogs.12897). *Cognitive Science*, 44 (10): e12897. ([download published version](https://urielcpublic.s3.amazonaws.com/papers/CohenPriva_Sanker-Cognitive_Science-Natural_Leaders.pdf)
 
