@@ -25,10 +25,8 @@ Currently, you can find the following metadata collections under the `metadata` 
 
 * [**buckeye-fave-stressed-vowels.tsv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/buckeye-fave-stressed-vowels.tsv.bz2)
 
-    Only the vowels provided in Cohen Priva and Strand, Under
-    Review. The formants in this case were extracted using
-    FAVE-extract, and containing only information that relates to
-    vowel normalization studies.
+    Only the vowels provided in Cohen Priva and Strand 2023. [Schwa's duration and acoustic position in American 
+    English](http://dx.doi.org/10.1016/j.wocn.2022.101198). The formants in this case were extracted using FAVE-extract.
 
 
 * [**aligned-buckeye-counts.python.txt.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/aligned-buckeye-counts.python.txt.bz2)
