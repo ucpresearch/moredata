@@ -31,13 +31,19 @@ Currently, you can find the following metadata collections under the `metadata` 
     The formants in this case were extracted using FAVE-extract.
 
 
-* [**aligned-buckeye-counts.python.txt.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/aligned-buckeye-counts.python.txt.bz2)
+* [**aligned-buckeye-counts.cmu.python.txt.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/aligned-buckeye-counts.cmu.python.txt.bz2)
 
 	This file is a python dictionary which represents the final alignment counts between CMU underlying representations and Buckeye annotations. These can serve as weights for future alignments. The process is described in:
 	
     Uriel Cohen Priva and Emily Gleason. [The causal structure of lenition: A case for the causal precedence of durational shortening](http://dx.doi.org/10.1353/lan.2020.0025). *Language*, 96 (2): 413--448. ([open access](https://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-2020-Language.html))
 
 	
+* [**aligned-buckeye-counts.python.txt.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/aligned-buckeye-counts.python.txt.bz2)
+
+	This file is a python dictionary which represents the final alignment counts between Buckeye underlying representations and Buckeye annotations. These can serve as weights for future alignments. The process is described in, but the paper uses the CMU alignments, not this file:
+	
+    Uriel Cohen Priva and Emily Gleason. [The causal structure of lenition: A case for the causal precedence of durational shortening](http://dx.doi.org/10.1353/lan.2020.0025). *Language*, 96 (2): 413--448. ([open access](https://urielcpublic.s3.amazonaws.com/CohenPriva_Gleason-2020-Language.html))
+
 * [**swbd.obstr.monov.obstr.props.csv.bz2**](https://github.com/ucpresearch/moredata/blob/master/metadata/swbd.obstr.monov.obstr.props.csv.bz2)
 
     Word formant and pitch modes for Switchboard words that have only one monophthong and no other sonorants. The data is meant to be aligned with the MS State annotations. Chelsea Sanker contributed to the creation of this resource. The method is described in:
